@@ -16,23 +16,23 @@ ________________________________________
 🚀 Live Demo:
 
 Try Ultimate KeyGen in action:
-🔗 https://www.keygen.elmeslem.cc/
+🔗 https://keygen.bigdatanest.com
 ________________________________________
 🛠️ How It Works:
 
 1.	Adjust Password Settings:
-o	Use the slider to set the password length.
-o	Toggle checkboxes to include/exclude specific character types:
-	Letters
-	Mixed Case
-	Numbers
-	Punctuation
+	o	Use the slider to set the password length.
+	o	Toggle checkboxes to include/exclude specific character types:
+		-	Letters
+		-	Mixed Case
+		-	Numbers
+		-	Punctuation
 2.	Generate a Password:
-o	Click "Generate Password" to instantly create a strong password based on your settings.
+	o	Click "Generate Password" to instantly create a strong password based on your settings.
 3.	Copy the Password:
-o	Use the "Copy Password" button to copy it to your clipboard for easy use.
+	o	Use the "Copy Password" button to copy it to your clipboard for easy use.
 4.	Password Strength:
-o	The strength indicator evaluates the password based on length, character variety, and complexity.
+	o	The strength indicator evaluates the password based on length, character variety, and complexity.
 ________________________________________
 📖 Technologies Used:
 
@@ -88,10 +88,10 @@ ________________________________________
 • Inspired by the need for better online security.
 • Built with love for the open-source community.
 ________________________________________
-🔗 Connect with Me:
+🔗 Contact us:
 
-• GitHub: https://github.com/DrWhy007
-• Email: keygen@elmeslem.cc
+• GitHub: https://github.com/DrWhy007/ultimate-keygen
+• Email: keygen@bigdatanest.com
 ________________________________________
 
 
@@ -116,23 +116,23 @@ ________________________________________
 🚀 Démo en ligne:
 
 Essayez Ultimate KeyGen en action :
-🔗 https://www.keygen.elmeslem.cc/
+🔗 https://keygen.bigdatanest.com
 ________________________________________
 🛠️ Comment ça marche:
 
 1.	Ajustez les paramètres du mot de passe :
-o	Utilisez le curseur pour définir la longueur du mot de passe.
-o	Activez/désactivez les cases à cocher pour inclure/exclure des types de caractères spécifiques :
-	Lettres
-	Casse mixte
-	Chiffres
-	Ponctuation
+	o	Utilisez le curseur pour définir la longueur du mot de passe.
+	o	Activez/désactivez les cases à cocher pour inclure/exclure des types de caractères spécifiques :
+		-	Lettres
+		-	Casse mixte
+		-	Chiffres
+		-	Ponctuation
 2.	Générez un mot de passe :
-o	Cliquez sur "Générer un mot de passe" pour créer instantanément un mot de passe fort en fonction de vos paramètres.
+	o	Cliquez sur "Générer un mot de passe" pour créer instantanément un mot de passe fort en fonction de vos paramètres.
 3.	Copiez le mot de passe :
-o	Utilisez le bouton "Copier le mot de passe" pour le copier dans votre presse-papiers.
+	o	Utilisez le bouton "Copier le mot de passe" pour le copier dans votre presse-papiers.
 4.	Force du mot de passe :
-o	L'indicateur de force évalue le mot de passe en fonction de sa longueur, de la variété des caractères et de sa complexité.
+	o	L'indicateur de force évalue le mot de passe en fonction de sa longueur, de la variété des caractères et de sa complexité.
 ________________________________________
 📖 Technologies utilisées:
 
@@ -150,11 +150,11 @@ Voici comment le projet est organisé :
 ultimate-keygen/
 │
 ├── index.html       # Fichier HTML principal
-├── styles.css         # Fichier CSS pour le style
-├── script.js             # Fichier JavaScript pour la logique
-├── LICENSE           # Fichier de licence (Licence MIT)
+├── styles.css       # Fichier CSS pour le style
+├── script.js        # Fichier JavaScript pour la logique
+├── LICENSE          # Fichier de licence (Licence MIT)
 ├── README.md        # Ce fichier de documentation
-└── robots.txt           # Empêche les moteurs de recherche d'indexer le site
+└── robots.txt       # Empêche les moteurs de recherche d'indexer le site
 ________________________________________
 🖥️ Comment exécuter localement:
 
@@ -187,49 +187,7 @@ ________________________________________
 • Inspiré par le besoin d'une meilleure sécurité en ligne.
 • Construit avec amour pour la communauté open-source.
 ________________________________________
-🔗 Contactez-moi:
+🔗 Contactez-nous:
 
 • GitHub: https://github.com/DrWhy007/ultimate-keygen
-• Email: keygen@elmeslem.cc
-
-
-About the Project
-Ultimate KeyGen is an open-source password generator built with HTML, CSS, and JavaScript. It allows users to create secure, customizable passwords easily.
-Features
-Adjustable password length (4-64 characters)
-Customizable character sets: Letters, mixed case, numbers, and punctuation
-Password strength indicator
-One-click "Copy Password" functionality
-Fully responsive design
-Open-source and lightweight
-How It Works
-Adjust password settings using the slider and checkboxes
-Click "Generate Password" to create a strong password
-Use the "Copy Password" button to copy it to your clipboard
-Check the strength indicator for password evaluation
-Technologies Used
-HTML for webpage structure
-CSS for styling and responsiveness
-JavaScript for password generation logic
-Crypto API for secure random number generation
-File Structure
-text
-ultimate-keygen/
-│
-├── index.html
-├── styles.css
-├── script.js
-├── LICENSE
-├── README.md
-└── robots.txt
-How to Run Locally
-Clone the repository
-Navigate to the project folder
-Open index.html in your browser
-License
-The project is licensed under the MIT License.
-Contributing
-Contributions are welcome. Fork the repository, create a new branch, make changes, and open a pull request.
-Contact
-GitHub: https://github.com/DrWhy007
-Email: keygen@elmeslem.cc
+• Email: keygen@bigdatanest.com
