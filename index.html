@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔑 Ultimate KeyGen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🔑 Ultimate KeyGen</h1>
+        <p class="tagline">Effortlessly craft unbreakable passwords.<br>Stay secure, stay smart. 🔐</p>
+        
+        <div class="password-box">
+            <input type="text" id="password-display" readonly>
+            <button id="copy-button" onclick="copyPassword()">Copy Password</button>
+        </div>
+        
+        <p id="password-strength"></p>
+        
+        <div class="controls">
+            <label for="length-slider">Password Length (<span id="length-value">20</span>):</label>
+            <input type="range" id="length-slider" min="4" max="64" value="20" oninput="updateLength()">
+        </div>
+        
+        <div class="options">
+            <label><input type="checkbox" id="include-letters" checked> Letters</label>
+            <label><input type="checkbox" id="include-mixed-case" checked> Mixed case</label>
+            <label><input type="checkbox" id="include-numbers" checked> Numbers</label>
+            <label><input type="checkbox" id="include-punctuation" checked> Punctuation</label>
+        </div>
+        
+        <button id="generate-button" onclick="generatePassword()">Generate Password</button>
+    </div>
+    
+    <footer>
+        <p>© 2025 Ultimate KeyGen. All rights reserved. <br><a href="https://github.com/DrWhy007/ultimate-keygen" target="_blank">View on GitHub</a></p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
